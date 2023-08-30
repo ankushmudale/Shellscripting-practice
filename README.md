@@ -10,6 +10,8 @@ you can practice the script one by one as per below given
 2. env_var.sh  link_env.sh
 3. arith_opr.sh
 4. arith_ex.sh
+5. if_condition.sh
+6. ifelse_relopr.sh
 
 ## Example:
 
