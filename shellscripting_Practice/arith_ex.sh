@@ -16,6 +16,7 @@ x=50
 y=30
 z=20
 
+
 sum=`expr $x + $y + $z`
 avg=`expr $sum / 3`
 
