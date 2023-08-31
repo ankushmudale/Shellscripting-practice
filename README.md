@@ -1,4 +1,4 @@
-# Shell scripting pracrice from basic
+# Shell scripting pracrice- Basic
 
 ## Description
 
