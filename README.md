@@ -12,6 +12,8 @@ you can practice the script one by one as per below given
 4. arith_ex.sh
 5. if_condition.sh
 6. ifelse_relopr.sh
+7. ifelse_str.sh
+8. ifelse_fileopr.sh
 
 ## Example:
 
