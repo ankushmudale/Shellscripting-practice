@@ -19,3 +19,4 @@ you can practice the script one by one as per below given
 
 1. Clone this repository: "git clone https://github.com/ankushmudale/Shellscripting-practice.git"
 2. Navigate to the project directory: "cd your-repo"
+3. test
